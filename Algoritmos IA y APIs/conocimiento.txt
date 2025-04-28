@@ -1,0 +1,54 @@
+# Aventura y Mundo Abierto
+¿Que juego me recomiendas si me gusta la aventura?|Te recomiendo The Legend of Zelda: Breath of the Wild.
+¿Cual es un buen juego de mundo abierto?|Red Dead Redemption 2 es una excelente opcion de mundo abierto.
+
+# Juegos Familiares y Cooperativos
+¿Que juego es ideal para jugar en familia?|Overcooked 2 es divertido para jugar en familia.
+¿Cual es un buen juego cooperativo online?|It Takes Two es excelente para jugar en pareja o amigos.
+¿Un juego para jugar con amigos en linea?|Among Us sigue siendo muy divertido para jugar con amigos.
+
+# Terror y Zombis
+¿Que juego de terror deberia probar?|Resident Evil Village es una gran opcion de terror.
+¿Hay un buen juego de zombis?|Dying Light 2 es una gran experiencia de zombis y parkour.
+
+# Shooters y Accion
+¿Cual es el mejor shooter en primera persona?|Call of Duty: Modern Warfare 2 es un clasico del genero FPS.
+
+# Historia y Narrativa
+¿Que juego tiene la mejor historia?|The Last of Us es muy reconocido por su historia.
+
+# RPG y Juegos de Rol
+¿Que RPG me recomiendas?|The Witcher 3: Wild Hunt es uno de los mejores RPGs.
+¿Que juego de rol clasico deberia jugar?|Final Fantasy VII es un rol clasico que sigue vigente.
+
+# Relajacion y Simulacion
+¿Que juego es bueno para relajarse?|Stardew Valley es perfecto para relajarte.
+¿Un juego de simulacion divertido?|The Sims 4 es muy popular en simulacion de vida.
+
+# Estrategia y Pensamiento
+¿Que juego de estrategia debo jugar?|Age of Empires IV es una gran eleccion para estrategia.
+
+# Indie y Plataformas
+¿Que juego indie me recomiendas?|Hades es uno de los mejores juegos indie recientes.
+¿Juego recomendado de plataformas?|Celeste es una joya en el genero de plataformas.
+
+# Realidad Virtual y Experiencias Inmersivas
+¿Que juego me recomiendas para VR?|Half-Life: Alyx es increible para realidad virtual.
+
+# Peleas y Deportes
+¿Que juego de peleas es el mejor?|Super Smash Bros. Ultimate es muy popular en peleas.
+¿Recomiendas algun juego de deportes?|FIFA 23 es uno de los mejores en deportes de futbol.
+
+# Sigilo y Ciencia Ficcion
+¿Que juego de sigilo podria probar?|Dishonored 2 es muy recomendado para amantes del sigilo.
+¿Hay un buen juego de ciencia ficcion?|Mass Effect Legendary Edition ofrece una gran saga de ciencia ficcion.
+
+# Musica y Ambientacion
+¿Un juego con buena musica?|Persona 5 tiene una banda sonora increible.
+
+# Cultura Gamer y Clasicos
+¿Un juego clasico que deberia jugar?|Super Mario 64 es un clasico imprescindible.
+
+# Otros
+¿Que dia es hoy?|Hoy es un buen dia para aprender algo nuevo.
+
