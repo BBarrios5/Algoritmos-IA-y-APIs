@@ -51,3 +51,53 @@ Se implementaron diversas estrategias de búsqueda: coincidencia exacta, búsque
 ## Licencia
 
 Este proyecto es de carácter académico y no posee licencia comercial. Uso libre para fines educativos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Enhorabuena, viajero del conocimiento.
+Has superado todas las pruebas y cruzado las tierras salvajes de C++.
+Que la sabiduría de los antiguos compiladores y la fuerza de los algoritmos ancestrales te guíen en tus próximos proyectos.
+Este no es el final, sino apenas el primer capítulo de tu saga. 🚀📚⚔️
