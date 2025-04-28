@@ -42,9 +42,6 @@ Se implementaron diversas estrategias de búsqueda: coincidencia exacta, búsque
 - Compilador compatible con C++ (Visual Studio, g++, etc.)
 - Archivo `conocimiento.txt` correctamente estructurado con preguntas y respuestas separadas por `|`.
 
-## Capturas de Pantalla
-
-*(Ver carpeta de capturas en el informe adjunto.)*
 
 ## Créditos
 
